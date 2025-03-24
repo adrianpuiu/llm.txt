@@ -1,0 +1,46 @@
+# Crawl4AI LLM Documentation
+
+- [Home](https://docs.crawl4ai.com/): Overview and introduction to Crawl4AI, providing a high-level understanding of its capabilities and features.
+- [Advanced Web Crawling Features](https://docs.crawl4ai.com/advanced/advanced-features/): Explore advanced features for web crawling with Crawl4AI, including deep crawling, session management, and more.
+- [Crawl Dispatcher Module](https://docs.crawl4ai.com/advanced/crawl-dispatcher/): Efficiently manage thousands of crawling tasks simultaneously using the Crawl Dispatcher Module.
+- [File Downloading](https://docs.crawl4ai.com/advanced/file-downloading/): Learn how to download files during web crawling, including handling different file types and storage options.
+- [Hooks and Authentication](https://docs.crawl4ai.com/advanced/hooks-auth/): Customize AsyncWebCrawler with hooks for authentication and navigation, allowing for flexible crawling workflows.
+- [Identity-Based Crawling](https://docs.crawl4ai.com/advanced/identity-based-crawling/): Navigate the web authentically with identity-based crawling solutions, mimicking real user interactions.
+- [Lazy Loading Images](https://docs.crawl4ai.com/advanced/lazy-loading/): Learn to handle lazy-loaded images in web crawling, ensuring all images are captured during the crawl.
+- [Multi-URL Crawling](https://docs.crawl4ai.com/advanced/multi-url-crawling/): Efficiently manage multi-URL crawling with advanced dispatchers, optimizing the crawling process for multiple targets.
+- [Proxy Configuration Guide](https://docs.crawl4ai.com/advanced/proxy-security/): Learn to configure proxies for web crawling effectively, enhancing security and anonymity during crawls.
+- [Session Management](https://docs.crawl4ai.com/advanced/session-management/): Manage sessions for efficient multi-step web crawling tasks, preserving state across interactions.
+- [SSL Certificate Management](https://docs.crawl4ai.com/advanced/ssl-certificate/): Manage SSL certificates for secure web crawling, ensuring encrypted data transmission.
+- [arun API](https://docs.crawl4ai.com/api/arun/): Details on the arun API for executing crawls, including parameters and usage examples.
+- [arun_many API](https://docs.crawl4ai.com/api/arun_many/): Execute multiple crawls simultaneously using the arun_many API, optimizing batch processing.
+- [AsyncWebCrawler API](https://docs.crawl4ai.com/api/async-webcrawler/): Asynchronous web crawling with AsyncWebCrawler, enabling efficient, non-blocking crawls.
+- [Crawl Result API](https://docs.crawl4ai.com/api/crawl-result/): Access and manage crawl results through the API, providing programmatic access to crawl data.
+- [Browser, Crawler & LLM Config](https://docs.crawl4ai.com/api/parameters/): Configure browser, crawler, and LLM settings for optimal performance, tailoring the crawler to specific needs.
+- [Crawling Strategies](https://docs.crawl4ai.com/api/strategies/): Overview of different crawling strategies available in Crawl4AI, including LLM and non-LLM approaches.
+- [Basic Installation](https://docs.crawl4ai.com/basic/installation/): Guide to installing Crawl4AI, covering dependencies and setup instructions.
+- [Blog](https://docs.crawl4ai.com/blog/): Latest updates and articles from the Crawl4AI blog, featuring use cases, tutorials, and announcements.
+- [Dockerize Hooks Article](https://docs.crawl4ai.com/blog/articles/dockerize_hooks/): Learn how to dockerize hooks for Crawl4AI, enhancing portability and scalability.
+- [Crawl4AI 0.4.0 Release](https://docs.crawl4ai.com/blog/releases/0.4.0/): Release notes for Crawl4AI version 0.4.0, detailing new features and improvements.
+- [Crawl4AI 0.4.1 Release](https://docs.crawl4ai.com/blog/releases/0.4.1/): Release notes for Crawl4AI version 0.4.1, highlighting efficiency improvements and new features.
+- [Crawl4AI 0.4.2 Release](https://docs.crawl4ai.com/blog/releases/0.4.2/): Release notes for Crawl4AI version 0.4.2, enhancing crawling with new features and performance upgrades.
+- [Crawl4AI 0.5.0 Release](https://docs.crawl4ai.com/blog/releases/0.5.0/): Release notes for Crawl4AI version 0.5.0, introducing major updates and advanced crawling capabilities.
+- [Crawl4AI v0.4.3b1 Release](https://docs.crawl4ai.com/blog/releases/v0.4.3b1/): Release notes for Crawl4AI version 0.4.3b1, a beta release with experimental features.
+- [Browser & Crawler Configuration](https://docs.crawl4ai.com/core/browser-crawler-config/): Configure browser and crawler settings, optimizing performance and compatibility.
+- [Cache Modes](https://docs.crawl4ai.com/core/cache-modes/): Understand different cache modes in Crawl4AI, improving efficiency and reducing redundant data fetches.
+- [Command-Line Interface](https://docs.crawl4ai.com/core/cli/): Use the CLI for convenient terminal access to Crawl4AI features, enabling quick setup and execution.
+- [Content Selection](https://docs.crawl4ai.com/core/content-selection/): Select and manage content during crawling, ensuring only relevant data is processed.
+- [Crawler Result](https://docs.crawl4ai.com/core/crawler-result/): Access and manage crawler results, providing insights into the crawling process.
+- [Deep Crawling](https://docs.crawl4ai.com/core/deep-crawling/): Explore websites beyond initial URLs with deep crawling strategies, capturing comprehensive data.
+- [Docker Deployment](https://docs.crawl4ai.com/core/docker-deployment/): Deploy Crawl4AI using Docker, simplifying setup and enhancing scalability.
+- [Fit Markdown](https://docs.crawl4ai.com/core/fit-markdown/): Generate fit markdown for AI-friendly processing, optimizing content for LLM ingestion.
+- [Installation Guide](https://docs.crawl4ai.com/core/installation/): Step-by-step guide to installing Crawl4AI, ensuring a smooth setup process.
+- [Link and Media Extraction](https://docs.crawl4ai.com/core/link-media/): Extract links and media from web pages, capturing all relevant resources.
+- [Local Files](https://docs.crawl4ai.com/core/local-files/): Crawl and process local files, extending Crawl4AI's capabilities beyond web content.
+- [Markdown Generation](https://docs.crawl4ai.com/core/markdown-generation/): Generate clean, structured markdown, optimized for AI processing and human readability.
+- [Page Interaction](https://docs.crawl4ai.com/core/page-interaction/): Interact with web pages during crawling, enabling dynamic content extraction.
+- [Quick Start Guide](https://docs.crawl4ai.com/core/quickstart/): Get started quickly with Crawl4AI, providing a streamlined introduction to its features.
+- [Simple Crawling](https://docs.crawl4ai.com/core/simple-crawling/): Perform simple web crawling tasks, ideal for straightforward data extraction needs.
+- [Chunking Strategies](https://docs.crawl4ai.com/extraction/chunking/): Implement chunking strategies for targeted content processing, optimizing data extraction.
+- [Clustering Strategies](https://docs.crawl4ai.com/extraction/clustring-strategies/): Use clustering strategies for data extraction, grouping similar content for analysis.
+- [LLM Strategies](https://docs.crawl4ai.com/extraction/llm-strategies/): Learn about LLM-based extraction strategies, leveraging AI for complex data extraction tasks.
+- [No-LLM Strategies](https://docs.crawl4ai.com/extraction/no-llm-strategies/): Explore schema-based extraction without relying on LLMs, suitable for structured and predictable content.
